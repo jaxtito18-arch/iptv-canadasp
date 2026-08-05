@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SouthPark.us@CA",South Park
+https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
+#EXTINF:-1 tvg-id="SouthParkEnFrancais.us@CA",South Park En Français
+https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.us@CA",South Park: Cartman Collection
+https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.us@CA",South Park: Kenny Collection
+https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.us@CA",South Park: Kyle Collection
+https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
+#EXTINF:-1 tvg-id="SouthParkStanCollection.us@CA",South Park: Stan Collection
+https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
+#EXTINF:-1 tvg-id="SouthParkWelcometoCanada.us@CA",South Park: Welcome to Canada!
+https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
